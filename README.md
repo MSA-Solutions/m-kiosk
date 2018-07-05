@@ -31,6 +31,9 @@ M-kiosk is a public kiosk for Massjid to help with donation collection, member r
 - Navigate to the allocated projects space 
 > the folder where you usually create projects 
 - run `git clone [repo url]`
+- run `cd m-kiosk\m-kiosk-ui` 
+
+> m-kiosk-ui will hold all of the ui code moving forward
 - run `npm install`
 - run `ng serve --open`
 
